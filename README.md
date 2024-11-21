@@ -5,6 +5,7 @@ Este projeto foi desenvolvido para automatizar o controle de iluminação em fá
 Componentes Utilizados:
 Placa Blackboard da Robocore: Atuoso como o microcontrolador principal para gerenciar a lógica de funcionamento e comunicação entre os dispositivos.
 Sensor Infravermelho (IR): Permite a recepção de comandos do controle remoto, identificando sinais específicos para desligar ou desligar as lâmpadas.
+Cabo USB AB para a programação da placa.
 Controle Remoto: Enviado com o sensor IR, utilizado para enviar os comandos de acionamento.
 Relés de Potência: Responsáveis ​​por conectar e desconectar o circuito das lâmpadas à rede elétrica, conforme os comandos recebidos pela placa Blackboard.
 Lâmpadas de Alta Eficiência: Garantiram boa iluminação e economia de energia.
