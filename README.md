@@ -16,3 +16,12 @@ Ação dos Relés: Dependendo do comando, o relé correspondente é acionado, co
 Feedback Visual: Um LED na placa sinalizando que o comando foi recebido e executado com sucesso, permitindo monitoramento em tempo real.
 
 O software desenvolvido IDE 2.3.3
+
+Como executar o projeto
+
+1. Intale o Arduino IDE;
+2. Realiza o uploud da blibioteca IRremote, depois da blackboard validada insta a outra blibioteca 'SerialRelay';
+3. Procure o IDE que funcione perfeitamente. No nosso caso foi o 2.3;
+4. No serial onitor configure o hexadecimal do botão do controle remoto que está utilizando.
+   
+
